@@ -1,5 +1,5 @@
 # kachAI
-prototype for a soon to come out AI which will have open source intelligence integrated and will have username searchup
+prototype for a soon to come out AI which will have open source intelligence integrated and will have username searchup and will be made by korror and louis, louis will work on the html
 
 ## WARNING
 This was made for Education purposes only.
@@ -35,3 +35,14 @@ Type usernames here (space them out)
 8. Telegram
 9. TikTok
 10. Snapchat
+
+## Contact me here
+#### Socials
+Telegram: https://t.me/extortcom
+Discord: 661906585060245524
+
+## Credits
+#### korror
+661906585060245524
+#### louis
+1095873141206700063
