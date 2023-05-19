@@ -16,8 +16,8 @@ The main issue with some people who aren't knowledgable in those aspects is that
 Python Version: 3.10.5
 pip Version: 22.0.4
 Gitbash
-#### if you aren't on Windows
-the issue might be this, use python3 instead of python or pip3 instead of pip
+#### if you aren't on Windows and the python command isn't working
+the issue might be this, use python3 instead of python or pip3 instead of pip!
 
 ## Setup
 ![windows](https://github.com/korrorW/kachAI/assets/103501436/e0748e24-706a-4034-bb3b-537d1c302e4a)
