@@ -3,6 +3,10 @@
 
 
 prototype for a soon to come out AI which will have open source intelligence integrated and will have username searchup and will be made by korror and louis, louis will work on the html
+![ubuntu](https://github.com/korrorW/kachAI/assets/103501436/0cff3841-7341-4313-bf25-0d3fabf3cfa5)
+![ubuntu2](https://github.com/korrorW/kachAI/assets/103501436/29dbc121-a77e-4a6b-9681-fe18619899ad)
+
+
 
 ## WARNING
 #### Main Warning
