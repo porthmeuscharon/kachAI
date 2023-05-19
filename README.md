@@ -2,7 +2,15 @@
 prototype for a soon to come out AI which will have open source intelligence integrated and will have username searchup and will be made by korror and louis, louis will work on the html
 
 ## WARNING
+#### Main Warning
 This was made for Education purposes only.
+#### if Setup fails
+The main issue with some people who aren't knowledgable in those aspects is that they don't download gitbash to use the git clone command and they sometimes have problems with pip and python, I recommend this
+Python Version: 3.10.5
+pip Version: 22.0.4
+Gitbash
+#### if you aren't on Windows
+the issue might be this, use python3 instead of python or pip3 instead of pip
 
 ## Setup
 #### Cloning the Repository
