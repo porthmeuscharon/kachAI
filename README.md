@@ -24,7 +24,7 @@ python kachAI.py
 Type usernames here (space them out)
 :example1 example2 example3
 ```
-## Supported Applications
+## Supported Social Media Applications
 1. Twitter
 2. Roblox
 3. Instagram
