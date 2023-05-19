@@ -1,6 +1,8 @@
 # kachAI
-prototype![kachAI logo](https://github.com/korrorW/kachAI/assets/103501436/f30ba022-801d-4ecb-821f-cdb1633777ee)
- for a soon to come out AI which will have open source intelligence integrated and will have username searchup and will be made by korror and louis, louis will work on the html
+![kachAI logo](https://github.com/korrorW/kachAI/assets/103501436/fb635f2f-2572-4ad6-9b39-167626beb379)
+
+
+prototype for a soon to come out AI which will have open source intelligence integrated and will have username searchup and will be made by korror and louis, louis will work on the html
 
 ## WARNING
 #### Main Warning
