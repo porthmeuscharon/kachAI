@@ -20,6 +20,7 @@ Gitbash
 the issue might be this, use python3 instead of python or pip3 instead of pip
 
 ## Setup
+![windows](https://github.com/korrorW/kachAI/assets/103501436/e0748e24-706a-4034-bb3b-537d1c302e4a)
 #### Cloning the Repository
 ```shell
 git clone https://github.com/korrorW/kachAI
