@@ -46,6 +46,10 @@ social_media_platforms = {
     "TikTok": {
         "url": "https://www.tiktok.com/@{}",
         "username_claimed": ""
+    },
+    "Doxbin": {
+        "url": "https://doxbin.com/user/{}",
+        "username_claimed": ""
     }
 }
 
