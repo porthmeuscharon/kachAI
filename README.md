@@ -39,6 +39,7 @@ Type usernames here (space them out)
 ## Contact me here
 #### Socials
 Telegram: https://t.me/extortcom
+
 Discord: 661906585060245524
 
 ## Credits
