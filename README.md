@@ -54,6 +54,7 @@ Type usernames here (space them out)
 8. Telegram
 9. TikTok
 10. Snapchat
+11. Doxbin
 
 ## Contact me here
 #### Socials
