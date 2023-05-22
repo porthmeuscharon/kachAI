@@ -27,6 +27,9 @@ the issue might be this, use python3 instead of python or pip3 instead of pip!
 #### Cloning the Repository
 ```shell
 git clone https://github.com/korrorW/kachAI
+```
+#### Change Directory to the installed Repository
+```shell
 cd kachAI
 ```
 #### Installing the Required Packages
