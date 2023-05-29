@@ -1,4 +1,4 @@
-﻿import requests
+import requests
 import urllib.parse
 from colorama import init, Fore, Style
 
@@ -37,6 +37,10 @@ social_media_platforms = {
     },
     "Snapchat": {
         "url": "https://www.snapchat.com/add/{}",
+        "username_claimed": ""
+    },
+    "Snapchat Stories": {
+        "url": "https://story.snapchat.com/s/{}",
         "username_claimed": ""
     },
     "Telegram": {
