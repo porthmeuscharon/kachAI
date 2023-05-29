@@ -12,7 +12,7 @@ social_media_platforms = {
         "username_claimed": ""
     },
     "Instagram": {
-        "url": "https://www.picuki.com/profile/{}",
+        "url": "https://www.instagram.com/{}",
         "username_claimed": ""
     },
     "Facebook": {
