@@ -8,11 +8,11 @@ init()
 # Define the social media platforms dictionary
 social_media_platforms = {
     "Twitter": {
-        "url": "https://twitter.com/{}",
+        "url": "https://nitter.it/{}",
         "username_claimed": ""
     },
     "Instagram": {
-        "url": "https://www.instagram.com/{}",
+        "url": "https://www.picuki.com/profile/{}",
         "username_claimed": ""
     },
     "Facebook": {
