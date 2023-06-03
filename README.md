@@ -70,3 +70,27 @@ Discord: 661906585060245524
 661906585060245524
 #### louis
 1095873141206700063
+
+
+# kachAI Duolingo
+
+## Usage
+
+#### Download kachAI using the Setup
+
+
+#### Run the .py file
+```python
+python kachDUO.py
+```
+#### Type in the Email
+```shell
+Type the email here
+: example@gmail.com
+```
+
+![duolingo windows](https://github.com/korrorW/kachAI/assets/103501436/6613eb39-15c0-46c1-8f28-fc71a214e3f4)
+
+
+![duolingo windows2](https://github.com/korrorW/kachAI/assets/103501436/6378a0b6-936f-462e-868a-b92ccad4f8e2)
+
